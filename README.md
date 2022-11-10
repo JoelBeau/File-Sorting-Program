@@ -10,7 +10,14 @@ In short after getting the information from the user, it creates the year folder
 
 This program was originally created to sort pictures, but it can be used for other files as well.
 
-More documentation can be found within each file,
+Picture.java is a object file I used to represent the current file that is being looked at.
+Sort.java is an interface used to define what folders to create, how to collect the files and how to move the files.
+SortByMonth.java is used when the user specifies to sort the files by mont.h
+SortByYear.java is used when the user specifies to sort the files by year.
+SortByBoth.java is used when the user specifies to sort the files by both month and year.
+Main.java is used to run the program.
+
+More documentation can be found within each file. 
 
 Thanks,
 
